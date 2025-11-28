@@ -1,4 +1,4 @@
-# PizzaStore (SQLite) - 
+# PizzaStore (SQLite) 
 
 Files:
 - Program.cs: Minimal API using EF Core SQLite
